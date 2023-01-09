@@ -1,0 +1,2 @@
+./multiserver.exe 5432
+./client.exe 127.0.0.1 5432

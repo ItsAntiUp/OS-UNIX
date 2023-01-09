@@ -1,0 +1,2 @@
+Main: 2uzd.c
+gcc -o Main 2uzd.c
